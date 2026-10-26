@@ -4,7 +4,7 @@ Project page for **Beyond Kinematic Tracking: Preserving Expressive Characterist
 
 - Paper: https://arxiv.org/abs/2610.19393
 - Video: https://www.youtube.com/watch?v=5EmDvZdKiBY
-- Website: https://aaron668pan.github.io/Beyond-Kinematic-Tracking/
+- Website: https://ihcr.github.io/Beyond_Kinematic_Tracking/
 
 Built with [vinext](https://www.npmjs.com/package/vinext) (Next.js App Router on Vite) and deployed to GitHub Pages from `main` by `.github/workflows/deploy-pages.yml`.
 
