@@ -156,21 +156,6 @@ export default function Home() {
         </figure>
       </section>
 
-      <section className="paper-section" id="citation">
-        <h2>BibTeX</h2>
-        <pre className="mt-8 overflow-x-auto rounded-lg bg-slate-100 p-5 text-left font-mono text-[13px] leading-6 text-slate-700 sm:p-7">
-          <code>{`@article{bao2026beyond,
-  title   = {Beyond Kinematic Tracking: Preserving Expressive
-             Characteristics in Humanoid Whole-Body Control},
-  author  = {Bao, Lingfan and Zhu, Hanshang and Pan, Yan and
-             Wang, Jincheng and Yu, Jingyang and Peng, Tianhu and
-             Jia, Yiyang and Kanoulas, Dimitrios and Zhou, Chengxu},
-  journal = {arXiv preprint arXiv:2610.19393},
-  year    = {2026}
-}`}</code>
-        </pre>
-      </section>
-
       <footer className="mt-8 border-t border-slate-200 py-8 text-center text-sm text-slate-500">
         <p>
           Beyond Kinematic Tracking ·{' '}
